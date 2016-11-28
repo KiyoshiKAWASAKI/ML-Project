@@ -1,4 +1,4 @@
-# ML-Project
+# ML-Project:please pay attention that the dataset is a local file so you need to change the path before running the kernel
 Machine Learning Project for 2016 fall
 
 Milestone:
